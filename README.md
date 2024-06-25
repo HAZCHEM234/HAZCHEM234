@@ -8,6 +8,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling, rugby, finance and aviation
 
+
+## Skills
+- **Programming Languages**: Python, SQL, R
+- **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Tools and Platforms**: Jupyter Notebook, Git, Docker, AWS
+
 <!---
 HAZCHEM234/HAZCHEM234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
