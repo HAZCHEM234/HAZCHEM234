@@ -10,10 +10,11 @@
 
 
 ## Skills
-- **Programming Languages**: Python, SQL, R
+- **Programming Languages**: Python, SQL, React, HTML, CSS, Java, JavaScript, C#
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Tools and Platforms**: Jupyter Notebook, Git, Docker, AWS
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, IBM Watson Studio
+- **Tools and Platforms**: Jupyter Notebook, Git, Power BI, Cognos Analytics
+- **Microsoft Technologies**: Excel, Power BI, SQL Server, Word, PowerPoint, OneNote, Visual Studio
 
 <!---
 HAZCHEM234/HAZCHEM234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
